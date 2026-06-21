@@ -1,7 +1,3 @@
-# Student-Management-System
-Python based student management system
-Here’s a simple GitHub README-style content for your **Student Management System** project:
-
 # Student Management System
 
 ## Description
